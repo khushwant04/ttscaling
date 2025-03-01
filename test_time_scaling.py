@@ -2,7 +2,7 @@ import torch
 import torch.nn.functional as F
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-# Replace with your actual model ID (ensure you have access)
+# Model Initlization
 model_name = "meta-llama/Llama-3.2-3B-Instruct"
 
 # Load tokenizer and model with appropriate trust_remote_code if needed.
