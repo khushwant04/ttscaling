@@ -90,7 +90,6 @@ This repository is provided for demonstration purposes. Make sure to follow the 
 ---
 
 Happy experimenting with test‑time scaling!
-```
 
 ---
 
