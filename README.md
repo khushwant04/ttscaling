@@ -86,11 +86,3 @@ Contributions, suggestions, or improvements to the code are very welcome! Please
 ## License
 
 This repository is provided for demonstration purposes. Make sure to follow the license terms of the underlying model (Meta LLaMA) as specified in the model card on Hugging Face.
-
----
-
-Happy experimenting with test‑time scaling!
-
----
-
-Feel free to adjust any sections to better match your repository’s context, project details, or personal style.
